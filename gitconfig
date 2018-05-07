@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh install.sh
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles
+	email = c.s.benitez@outlook.com
+	name = clara schvartzman
